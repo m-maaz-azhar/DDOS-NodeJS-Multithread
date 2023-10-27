@@ -1,2 +1,2 @@
 # DDOS-NodeJS-Multithread
-This code performs a DDoS attack using JavaScript (Node.js) with the worker_threads and fetch modules.
+This code is designed to execute a DDoS attack using JavaScript within the Node.js environment, by using the capabilities of the worker_threads and fetch modules.
